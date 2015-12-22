@@ -1,0 +1,23 @@
+1
+Сепарация
+Симбиоз
+10сим.jpg r
+7сим.jpg r
+1сеп.jpg l
+6сим.jpg r
+8сим.jpg r
+9сим.jpg r
+3сеп.jpg l
+4сеп.jpg l
+10сим.jpg r
+8сим.jpg r
+7сим.jpg r
+2сеп.jpg l
+5сеп.jpg l 
+9сим.jpg r
+1сеп.jpg l
+3сеп.jpg l
+6сим.jpg r
+4сеп.jpg l
+5сеп.jpg l
+2сеп.jpg l
